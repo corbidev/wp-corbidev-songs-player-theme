@@ -1,0 +1,13 @@
+{
+  "name": "wp-corbidev-songs-player-theme",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Tooling front minimal pour le thème WordPress CorbiDev Songs Player (build Tailwind CSS).",
+  "scripts": {
+    "build:css": "tailwindcss -c tailwind.config.js -i ./assets/css/tailwind.css -o ./assets/css/styles.css",
+    "watch:css": "tailwindcss -c tailwind.config.js -i ./assets/css/tailwind.css -o ./assets/css/styles.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.0"
+  }
+}
