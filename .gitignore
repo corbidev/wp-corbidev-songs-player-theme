@@ -1,0 +1,44 @@
+##############################
+# Dépendances & build front
+##############################
+
+node_modules/
+npm-debug.log*
+yarn.lock
+pnpm-lock.yaml
+package-lock.json
+
+dist/
+build/
+public/build/
+.parcel-cache/
+.cache/
+
+##############################
+# Fichiers système / éditeurs
+##############################
+
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+
+.idea/
+.vscode/
+*.swp
+*.swo
+*.log
+
+##############################
+# Divers
+##############################
+
+*.local.*
+*.bak
+*.tmp
+*.temp
+*.orig
+
+# Cartes de source générées
+*.map
+

@@ -1,0 +1,10 @@
+{
+  "name": "corbidev/wp-corbidev-songs-player-theme-fast",
+  "description": "Thème WordPress CorbiDev Songs Player – FAST, basé sur le Kernel wp-corbidev-kernel-theme.",
+  "type": "wordpress-theme",
+  "license": "proprietary",
+  "require": {
+    "php": ">=8.4",
+    "corbidev/wp-corbidev-kernel-theme": "^1.0.1"
+  }
+}
