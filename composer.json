@@ -5,6 +5,8 @@
   "license": "proprietary",
   "require": {
     "php": ">=8.4",
-    "corbidev/wp-corbidev-kernel-theme": "^1.0.2"
-  }
+    "corbidev/wp-corbidev-kernel-theme": "^1.0"
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true
 }
