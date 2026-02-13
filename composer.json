@@ -4,8 +4,7 @@
   "type": "wordpress-theme",
   "license": "proprietary",
   "require": {
-    "php": ">=8.4",
-    "corbidev/wp-corbidev-kernel-theme": "^1.0"
+    "php": ">=8.4"
   },
   "minimum-stability": "stable",
   "prefer-stable": true
